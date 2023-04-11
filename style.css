@@ -121,7 +121,7 @@ button:focus-visible {
 .results {
     border-radius: 0 0 var(--border-radius) var(--border-radius);
     text-align: center;
-    color: hsl(var(--white), .6);
+    color: hsl(var(--white), .7);
     background: var(--gradient-background);
     padding: var(--padding) calc(--padding)*1.5;
 }
